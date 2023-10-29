@@ -1,0 +1,55 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: webtours",
+                "infFile": "t2.inf",
+                "time": 1698510800080
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1698510800279
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1698510800444
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "welcome",
+                "rawStartTime": 1698510799881,
+                "rawEndTime": 1698510800084,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0704813003540039
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1698510800116,
+                "rawEndTime": 1698510800287,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0059375762939453129
+            },
+            {
+                "transactionName": "signoff",
+                "rawStartTime": 1698510800317,
+                "rawEndTime": 1698510800456,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005193948745727539
+            },
+            {
+                "transactionName": "UC01_Логин",
+                "rawStartTime": 1698510799866,
+                "rawEndTime": 1698510800472,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08161282539367676
+            }
+        ]
+    }
+]

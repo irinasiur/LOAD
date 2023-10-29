@@ -1,0 +1,119 @@
+Virtual User Script started at: 29.10.2023 15:12:14
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC05_CancelBooking_2\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(5): Notify: Transaction "UC05_Cancel_Booking" started.
+Action.c(6): Notify: Transaction "welcome" started.
+Action.c(8): web_custom_request("webtours") started  	[MsgId: MMSG-26355]
+Action.c(8): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(8): web_custom_request("webtours") was successful, 366 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(18): web_custom_request("header.html") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(18): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(18): web_custom_request("header.html") was successful, 710 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(29): web_custom_request("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(29): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(29): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(29): web_custom_request("welcome.pl") was successful, 686 body bytes, 327 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(40): web_custom_request("home.html") started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(40): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(40): web_custom_request("home.html") was successful, 1361 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(51): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(51): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(62): web_custom_request("nav.pl") started  	[MsgId: MMSG-26355]
+Action.c(62): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(62): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(62): Notify: Saving Parameter "userSession = 137592.671931956HAHHtcDpAzcftctztpfDiDHf".
+Action.c(62): web_custom_request("nav.pl") was successful, 1486 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(73): Notify: Transaction "welcome" ended with a "Pass" status (Duration: 0,4520 Wasted Time: 0,1416).
+Action.c(77): Notify: Transaction "login" started.
+Action.c(79): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(79): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(79): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(83): web_custom_request("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(83): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(83): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(83): Notify: Parameter Substitution: parameter "userSession" =  "137592.671931956HAHHtcDpAzcftctztpfDiDHf"
+Action.c(83): Notify: Parameter Substitution: parameter "usernamelogin" =  "user11"
+Action.c(83): Notify: Next row for parameter userpassword = 1 [table  = userpassword].
+Action.c(83): Notify: Parameter Substitution: parameter "userpassword" =  "q1"
+Action.c(83): web_custom_request("login.pl") was successful, 481 body bytes, 385 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(94): web_custom_request("login.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(94): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(94): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(94): web_custom_request("login.pl_2") was successful, 920 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(105): web_custom_request("nav.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(105): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(105): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(105): web_custom_request("nav.pl_2") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(115): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,3296 Wasted Time: 0,0198).
+Action.c(117): Notify: Transaction "itinerary" started.
+Action.c(118): web_custom_request("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(118): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(118): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(118): web_custom_request("welcome.pl_2") was successful, 591 body bytes, 215 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(128): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(128): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(138): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(138): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(138): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(138): Warning -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 887 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MWAR-26377]
+Action.c(138): Notify: Saving Parameter "flightID_count = 0".
+Action.c(138): web_custom_request("itinerary.pl") highest severity level was "warning", 887 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(150): web_custom_request("nav.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(150): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(150): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(150): web_custom_request("nav.pl_3") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(160): Notify: Transaction "itinerary" ended with a "Pass" status (Duration: 0.2945 Wasted Time: 0.0201).
+Action.c(163): Notify: Parameter Substitution: parameter "flightID_count" =  "0"
+Action.c(164): Notify: Saving Parameter "request = ".
+Action.c(165): Notify: Saving Parameter "cgifieds_concat = ".
+Action.c(177): Notify: Transaction "cancel_booking" started.
+Action.c(180): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(180): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(180): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(190): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(190): Warning: The string 'flightID_1' with parameter delimiters is not a parameter.
+Action.c(190): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(195): web_custom_request("itinerary.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(195): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(195): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(195): Notify: Parameter Substitution: parameter "request" =  ""
+Action.c(195): Warning: The string 'cgifields_concat' with parameter delimiters is not a parameter.
+Action.c(195): Registered web_reg_find successful for "Text={flightID_1}"  	[MsgId: MMSG-26362]
+Action.c(195): web_custom_request("itinerary.pl_2") was successful, 887 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(206): Notify: Transaction "cancel_booking" ended with a "Pass" status (Duration: 0.1420 Wasted Time: 0.0059).
+Action.c(210): Notify: Transaction "signoff" started.
+Action.c(212): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(212): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(216): web_custom_request("welcome.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(216): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(216): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(216): Registered web_reg_find successful for "Text=A Session ID has been created and loaded into a cookie" (count=1)  	[MsgId: MMSG-26364]
+Action.c(216): web_custom_request("welcome.pl_3") was successful, 686 body bytes, 327 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(226): web_custom_request("home.html_2") started  	[MsgId: MMSG-26355]
+Action.c(226): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(226): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(226): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(226): web_custom_request("home.html_2") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+Action.c(235): web_custom_request("nav.pl_4") started  	[MsgId: MMSG-26355]
+Action.c(235): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(235): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(235): web_custom_request("nav.pl_4") was successful, 1488 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(245): Notify: Transaction "signoff" ended with a "Pass" status (Duration: 0.2182 Wasted Time: 0.0186).
+Action.c(246): Notify: Transaction "UC05_Cancel_Booking" ended with a "Pass" status (Duration: 1.6414 Wasted Time: 0.2060).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 53192), ended OK."

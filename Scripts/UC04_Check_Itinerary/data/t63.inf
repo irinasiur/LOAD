@@ -1,0 +1,13 @@
+[t63]
+FileName1=t63.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=2
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_63.xml
+FileName2=t63_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

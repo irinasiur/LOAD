@@ -1,0 +1,13 @@
+[t48]
+FileName1=t48.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=2
+RequestHeaderFile=t48_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t48_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_48.xml
+FileName2=t48_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

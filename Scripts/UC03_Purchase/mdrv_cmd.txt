@@ -1,0 +1,1 @@
+-usr "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase\UC03_Purchase.usr" -compile_only -out "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase\" -drv_log_file "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase\mdrv.log" -cfg "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase\default.cfg" -product_name vugen

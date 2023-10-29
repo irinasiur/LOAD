@@ -1,0 +1,52 @@
+[Network Analyzer (be2c:bf6c)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (be2c:bf6c)] SSLAccept(ssl_id = 2862481186608 = 0000029A792C9F30) Failed, ctx = 0000029A7023CED0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (be2c:bf6c)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (be2c:b760)] "GET /canonical.html"   
+[Network Analyzer (be2c:b760)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  8) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (be2c:b760)] "GET /success.txt?ipv4"   
+[Network Analyzer (be2c:b760)]   (Sid: 17) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (be2c:b65c)] "GET /success.txt?ipv6"   
+[Network Analyzer (be2c:b65c)]   (Sid: 27) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid: 17) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (be2c:b65c)]   (Sid: 27) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (be2c:b760)]   (Sid: 49) Connection Terminated (by Client)

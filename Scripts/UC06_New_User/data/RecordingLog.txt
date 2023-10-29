@@ -1,0 +1,2280 @@
+[API Trapper      (a1e4:7110)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (7c1c:9e0c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (7c1c:a008)] ------------------------------------------------------------------------------------------
+[Network Analyzer (7c1c:a008)] Load Network Traffic Analyzers:
+[Network Analyzer (7c1c:a008)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (7c1c:a008)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (7c1c:a008)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (7c1c:a008)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (7c1c:a008)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (7c1c:a008)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (7c1c:a008)]     Analyzer Module: local_server (value=)
+[Network Analyzer (7c1c:a008)] ------------------------------------------------------------------------------------------
+[Network Analyzer (7c1c:9d0c)] Address lookup for Vasya = 192.168.56.1
+[Net An. Debug    (7c1c:9d0c)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.1.40
+[API Trapper      (9b5c:87b0)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (7c1c:a008)] Establish Listener @ 127.0.0.1:63129
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:63129   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 33 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /webtours/"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a900)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a90c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a900)] SSLAccept(ssl_id = 2160954835456 = 000001F722F20200) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a900)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    (7c1c:a90c)] SSLAccept(ssl_id = 2160955496000 = 000001F722FC1640) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a90c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (7c1c:9d0c)] "GET /webtours/header.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Client -> Server @ : 532 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a910)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:a910)] SSLAccept(ssl_id = 2160954989456 = 000001F722F45B90) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:a910)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a918)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (7c1c:a918)] SSLAccept(ssl_id = 2160955174720 = 000001F722F72F40) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:a918)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:a91c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (7c1c:a91c)] SSLAccept(ssl_id = 2160954989456 = 000001F722F45B90) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:a91c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (7c1c:a920)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a920)] SSLAccept(ssl_id = 2160954745648 = 000001F722F0A330) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:a920)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a974)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a980)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 173.194.222.95:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.197.137.200:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a980)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /favicon.ico"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a98c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:a990)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a9a0)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a9a4)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a9a4)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a9c0)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 18) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Client -> Server @ : 448 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 18) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Client -> Server @ : 449 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/home.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 22) Client -> Server @ : 569 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 22) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Net An. Error    (7c1c:a974)] SSLAccept(ssl_id = 2160955426720 = 000001F722FB07A0) Failed, ctx = 000001F722EA4890, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a974)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a98c)] SSLAccept(ssl_id = 2161106941648 = 000001F72C02F6D0) Failed, ctx = 000001F722F9B090, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (7c1c:a990)] SSLAccept(ssl_id = 2161107031232 = 000001F72C0454C0) Failed, ctx = 000001F722F9B870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a98c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (7c1c:a990)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a9a0)] SSLAccept(ssl_id = 2161107194800 = 000001F72C06D3B0) Failed, ctx = 000001F722F9E3C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a9a0)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa18)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa1c)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (7c1c:aa18)] SSLAccept(ssl_id = 2161108242512 = 000001F72C16D050) Failed, ctx = 000001F722F9ACA0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:aa18)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (7c1c:aa20)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (7c1c:aa20)] SSLAccept(ssl_id = 2161108224032 = 000001F72C168820) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:aa20)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (7c1c:aa2c)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a9c0)] SSLAccept(ssl_id = 2161108211712 = 000001F72C165800) Failed, ctx = 000001F722F9D7F0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a9c0)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.223.169.2:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa2c)] SSLAccept(ssl_id = 2161108217872 = 000001F72C167010) Failed, ctx = 000001F722F9ACA0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa2c)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa1c)] SSLAccept(ssl_id = 2161108267152 = 000001F72C173090) Failed, ctx = 000001F722F9E3C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa1c)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 34) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa34)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:aa3c)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa40)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa44)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa48)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa4c)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa50)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa54)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:aa58)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (7c1c:aa58)] SSLAccept(ssl_id = 2161108844832 = 000001F72C200120) Failed, ctx = 000001F722EA3CC0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (7c1c:aa58)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid: 22) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa40)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa44)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa4c)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:aa48)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:aa8c)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa34)] SSLAccept(ssl_id = 2161108795552 = 000001F72C1F40A0) Failed, ctx = 000001F722F9DFD0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa34)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:aa3c)] SSLAccept(ssl_id = 2161108783232 = 000001F72C1F1080) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa3c)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa90)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa54)] SSLAccept(ssl_id = 2161108826352 = 000001F72C1FB8F0) Failed, ctx = 000001F722F9ACA0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa54)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aa8c)] SSLAccept(ssl_id = 2161108863312 = 000001F72C204950) Failed, ctx = 000001F722F9ACA0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (7c1c:aa50)] SSLAccept(ssl_id = 2161108789392 = 000001F72C1F2890) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:aa8c)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (7c1c:aa50)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa90)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa94)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa94)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aae0)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae0)] SSLAccept(ssl_id = 2161108254832 = 000001F72C170070) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae0)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aae4)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae4)] SSLAccept(ssl_id = 2161108254832 = 000001F72C170070) Failed, ctx = 000001F722F9D7F0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae4)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aae8)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae8)] SSLAccept(ssl_id = 2161108242512 = 000001F72C16D050) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aae8)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aaf0)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aaf0)] SSLAccept(ssl_id = 2161108217872 = 000001F72C167010) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aaf0)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:aafc)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:aafc)] SSLAccept(ssl_id = 2161108248672 = 000001F72C16E860) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:aafc)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 46) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:ab0c)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab0c)] SSLAccept(ssl_id = 2161108254832 = 000001F72C170070) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab0c)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 47) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 2_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:ab30)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab30)] SSLAccept(ssl_id = 2161108224032 = 000001F72C168820) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab30)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 48) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:ab4c)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/login.pl?username=&password=&getInfo=true"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Client -> Server @ : 607 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab4c)] SSLAccept(ssl_id = 2161108224032 = 000001F72C168820) Failed, ctx = 000001F722F9D7F0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:ab4c)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Server -> Client : 2665 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/profileValidate.js"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Server -> Client : 11601 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Client -> Server @ : 509 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 50) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 2_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:abc8)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:abc8)] SSLAccept(ssl_id = 2161108230192 = 000001F72C16A030) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:abc8)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a8f8)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a8f8)] SSLAccept(ssl_id = 2161108217872 = 000001F72C167010) Failed, ctx = 000001F722F9D7F0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a8f8)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:7854)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:7854)] SSLAccept(ssl_id = 2161108211712 = 000001F72C165800) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:7854)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9bbc)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a9bc)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9bbc)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a9bc)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:91cc)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a02c)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 56) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a424)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:91cc)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a02c)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a424)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a97c)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a97c)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a804)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 61)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a804)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa30)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 57) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 58) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 54) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 62)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:aa30)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:900c)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:900c)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a0b0)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:a0b0)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 59) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 61) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 64)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 64) Client -> Server @ : 871 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 64) Server -> Client : 1486 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 64) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 64) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 65)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[User action                 ] StartTransactionEvent 3_transaction [Network Analyzer (7c1c:94d4)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:94d4)] SSLAccept(ssl_id = 2161108795552 = 000001F72C1F40A0) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:94d4)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 65) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 4_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a844)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a844)] SSLAccept(ssl_id = 2161108795552 = 000001F72C1F40A0) Failed, ctx = 000001F722F9D7F0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a844)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /canonical.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 27) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /success.txt?ipv4"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 38) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 66) Connection Terminated (by Client)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 67)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Client -> Server @ : 733 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Client -> Server @ : 729 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 68)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Client -> Server @ : 724 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Client -> Server @ : 636 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Client -> Server @ : 638 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 69)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Server -> Client : 1030 bytes  (Service=HTTP)
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 69) Client -> Server @ : 636 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:9d0c)]   (Sid: 69) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 70)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 70) Client -> Server @ : 636 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 70) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 68) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 69) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 70) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 67) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 3_transaction [User action                 ] StartTransactionEvent 6_transaction [Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 71)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Client -> Server @ : 748 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Client -> Server @ : 570 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 72)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (7c1c:9d0c)] "GET /WebTours/home.html"   
+[Network Analyzer (7c1c:9d0c)]   (Sid: 72) Client -> Server @ : 666 bytes (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 72) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 6_transaction [Network Analyzer (7c1c:9d0c)]   (Sid: 72) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid: 71) Connection Terminated (by Server)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a008)] Address lookup for Vasya = 192.168.56.1
+[Network Analyzer (7c1c:a008)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:a1c8)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (7c1c:a1c8)] SSLAccept(ssl_id = 2161108820192 = 000001F72C1FA0E0) Failed, ctx = 000001F722EA3CC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (7c1c:a1c8)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (7c1c:9d0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (7c1c:9d0c)]   (Sid: 73) Connection Terminated (by Client)

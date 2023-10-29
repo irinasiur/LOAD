@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\load_testing\load_testing\scripts\uc03_purchase\\logfile.log
+c:\load_testing\load_testing\scripts\uc03_purchase\\combined_UC03_Purchase.c
+c:\load_testing\load_testing\scripts\uc03_purchase\\pre_cci.c

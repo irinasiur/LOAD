@@ -1,0 +1,107 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: webtours",
+                "infFile": "t2.inf",
+                "time": 1698510352926
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1698510353119
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1698510353337
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1698510353487
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1698510353618
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1698510353759
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t8.inf",
+                "time": 1698510353893
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "welcome",
+                "rawStartTime": 1698510352742,
+                "rawEndTime": 1698510352930,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07436180114746094
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1698510352977,
+                "rawEndTime": 1698510353134,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006933689117431641
+            },
+            {
+                "transactionName": "ticket_search1",
+                "rawStartTime": 1698510353165,
+                "rawEndTime": 1698510353354,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004777669906616211
+            },
+            {
+                "transactionName": "ticket_search2",
+                "rawStartTime": 1698510353385,
+                "rawEndTime": 1698510353495,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005022525787353516
+            },
+            {
+                "transactionName": "choose_time",
+                "rawStartTime": 1698510353528,
+                "rawEndTime": 1698510353621,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0048525333404541019
+            },
+            {
+                "transactionName": "payment",
+                "rawStartTime": 1698510353653,
+                "rawEndTime": 1698510353762,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004997730255126953
+            },
+            {
+                "transactionName": "signoff",
+                "rawStartTime": 1698510353778,
+                "rawEndTime": 1698510353903,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005231142044067383
+            },
+            {
+                "transactionName": "UC03_Покупка",
+                "rawStartTime": 1698510352727,
+                "rawEndTime": 1698510353919,
+                "thinkTime": 0.0,
+                "wastedTime": 0.10617709159851074
+            }
+        ]
+    }
+]

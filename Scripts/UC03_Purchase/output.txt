@@ -1,0 +1,160 @@
+Virtual User Script started at: 28.10.2023 19:25:52
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (янв 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\LOAD_TESTING\LOAD_TESTING\Scripts\UC03_Purchase\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): Notify: Transaction "UC03_Покупка" started.
+Action.c(4): Notify: Transaction "welcome" started.
+Action.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(19): web_url("webtours") started  	[MsgId: MMSG-26355]
+Action.c(19): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(19): Detected non-resource "http://localhost:1080/webtours/header.html" in "http://localhost:1080/webtours/"  	[MsgId: MMSG-26574]
+Action.c(19): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/webtours/"  	[MsgId: MMSG-26574]
+Action.c(19): Found resource "http://localhost:1080/webtours/images/hp_logo.png" in HTML "http://localhost:1080/webtours/header.html"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://localhost:1080/webtours/images/webtours.png" in HTML "http://localhost:1080/webtours/header.html"  	[MsgId: MMSG-26659]
+Action.c(19): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(19): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(19): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(19): Notify: Saving Parameter "userSession = 137586.905791819HAHHVczptzzzzzzHtctzcpHfii".
+Action.c(19): web_url("webtours") was successful, 10078 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(30): Notify: Transaction "welcome" ended with a "Pass" status (Duration: 0.1876 Wasted Time: 0.0744).
+Action.c(34): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(34): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(34): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(40): Notify: Transaction "login" started.
+Action.c(42): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(42): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(46): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(46): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(46): Notify: Parameter Substitution: parameter "userSession" =  "137586.905791819HAHHVczptzzzzzzHtctzcpHfii"
+Action.c(46): Notify: Parameter Substitution: parameter "usernamelogin" =  "user11"
+Action.c(46): Notify: Next row for parameter userpassword = 1 [table  = userpassword].
+Action.c(46): Notify: Parameter Substitution: parameter "userpassword" =  "q1"
+Action.c(46): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(46): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(46): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(46): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(46): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(46): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(46): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(46): web_submit_data("login.pl") was successful, 5781 body bytes, 2058 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(62): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.1567 Wasted Time: 0.0069).
+Action.c(66): Notify: Transaction "ticket_search1" started.
+Action.c(67): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(67): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(71): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(71): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(71): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(71): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(71): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(71): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(71): Resource "http://localhost:1080/WebTours/images/itinerary.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(71): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(71): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(71): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Action.c(71): Registered web_reg_find successful for "Text= user has already logged on" (count=1)  	[MsgId: MMSG-26364]
+Action.c(71): web_url("welcome.pl") was successful, 8516 body bytes, 1616 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(80): Notify: Transaction "ticket_search1" ended with a "Pass" status (Duration: 0.1886 Wasted Time: 0.0048).
+Action.c(85): Notify: Transaction "ticket_search2" started.
+Action.c(87): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(87): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(87): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(90): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(90): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(95): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Action.c(95): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(95): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(95): Notify: Next row for parameter depart = 1 [table  = depart].
+Action.c(95): Notify: Parameter Substitution: parameter "depart" =  "Denver"
+Action.c(95): Notify: Parameter Substitution: parameter "departDate" =  "10/24/2023"
+Action.c(95): Notify: Next row for parameter arrive = 1 [table  = arrive].
+Action.c(95): Notify: Parameter Substitution: parameter "arrive" =  "Portland"
+Action.c(95): Notify: Parameter Substitution: parameter "returnDate" =  "10/25/2023"
+Action.c(95): Notify: Next row for parameter seatPref = 1 [table  = seatPref].
+Action.c(95): Notify: Parameter Substitution: parameter "seatPref" =  "None"
+Action.c(95): Notify: Next row for parameter seatType = 1 [table  = seatType].
+Action.c(95): Notify: Parameter Substitution: parameter "seatType" =  "Coach"
+Action.c(95): Notify: Saving Parameter "outFlightVal_1 = 050;275;10/24/2023".
+Action.c(95): Notify: Saving Parameter "outFlightVal_2 = 051;245;10/24/2023".
+Action.c(95): Notify: Saving Parameter "outFlightVal_3 = 052;260;10/24/2023".
+Action.c(95): Notify: Saving Parameter "outFlightVal_4 = 053;225;10/24/2023".
+Action.c(95): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(95): Notify: Saving Parameter "outFlightVal_count = 4".
+Action.c(95): web_submit_data("reservations.pl") was successful, 2440 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(119): Notify: Transaction "ticket_search2" ended with a "Pass" status (Duration: 0,1101 Wasted Time: 0,0050).
+Action.c(123): Notify: Transaction "choose_time" started.
+Action.c(125): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(125): Notify: Parameter Substitution: parameter "usernamelogin" =  "user11"
+Action.c(125): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(129): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(129): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(129): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(129): Notify: Parameter Substitution: parameter "outFlightVal_1" =  "050;275;10/24/2023"
+Action.c(129): Notify: Next row for parameter seatType = 1 [table  = seatType].
+Action.c(129): Notify: Parameter Substitution: parameter "seatType" =  "Coach"
+Action.c(129): Notify: Next row for parameter seatPref = 1 [table  = seatPref].
+Action.c(129): Notify: Parameter Substitution: parameter "seatPref" =  "None"
+Action.c(129): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(129): Registered web_reg_find successful for "Text= value="user11"" (count=1)  	[MsgId: MMSG-26364]
+Action.c(129): web_submit_data("reservations.pl_2") was successful, 2741 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(147): Notify: Transaction "choose_time" ended with a "Pass" status (Duration: 0,0938 Wasted Time: 0,0049).
+Action.c(152): Notify: Transaction "payment" started.
+Action.c(155): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(155): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(155): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(159): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(159): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(163): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(163): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(163): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(163): Notify: Next row for parameter firstName = 1 [table  = firstName].
+Action.c(163): Notify: Parameter Substitution: parameter "firstName" =  "user11"
+Action.c(163): Notify: Next row for parameter lastName = 1 [table  = lastName].
+Action.c(163): Notify: Parameter Substitution: parameter "lastName" =  "user11"
+Action.c(163): Notify: Next row for parameter address1 = 1 [table  = address1].
+Action.c(163): Notify: Parameter Substitution: parameter "address1" =  "First street"
+Action.c(163): Notify: Next row for parameter address2 = 1 [table  = address2].
+Action.c(163): Notify: Parameter Substitution: parameter "address2" =  "Liberty"
+Action.c(163): Notify: Next row for parameter pass1 = 1 [table  = pass1].
+Action.c(163): Notify: Parameter Substitution: parameter "pass1" =  "User11 Q1"
+Action.c(163): Notify: Next row for parameter creditCard = 1 [table  = creditCard].
+Action.c(163): Notify: Parameter Substitution: parameter "creditCard" =  "1212121212121"
+Action.c(163): Notify: Next row for parameter expDate = 1 [table  = expDate].
+Action.c(163): Notify: Parameter Substitution: parameter "expDate" =  "10/24"
+Action.c(163): Notify: Next row for parameter seatType = 1 [table  = seatType].
+Action.c(163): Notify: Parameter Substitution: parameter "seatType" =  "Coach"
+Action.c(163): Notify: Next row for parameter seatPref = 1 [table  = seatPref].
+Action.c(163): Notify: Parameter Substitution: parameter "seatPref" =  "None"
+Action.c(163): Notify: Parameter Substitution: parameter "outFlightVal_1" =  "050;275;10/24/2023"
+Action.c(163): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(163): Registered web_reg_find successful for "Text=Thank you" (count=1)  	[MsgId: MMSG-26364]
+Action.c(163): web_submit_data("reservations.pl_3") was successful, 3288 body bytes, 685 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(192): Notify: Transaction "payment" ended with a "Pass" status (Duration: 0,1088 Wasted Time: 0,0050).
+Action.c(195): Notify: Transaction "signoff" started.
+Action.c(199): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(199): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(203): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(203): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(203): Notify: Parameter Substitution: parameter "HOST_PORT" =  "localhost:1080"
+Action.c(203): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(203): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(203): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(203): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(203): Registered web_reg_find successful for "Text=A Session ID has been created" (count=1)  	[MsgId: MMSG-26364]
+Action.c(203): web_url("welcome.pl_2") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(213): Notify: Transaction "signoff" ended with a "Pass" status (Duration: 0.1248 Wasted Time: 0.0052).
+Action.c(214): Notify: Transaction "UC03_Покупка" ended with a "Pass" status (Duration: 1.1924 Wasted Time: 0.1062).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

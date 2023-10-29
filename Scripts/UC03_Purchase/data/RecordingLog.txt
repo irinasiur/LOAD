@@ -1,0 +1,19 @@
+[Network Analyzer (101e8:123dc)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (101e8:123dc)] SSLAccept(ssl_id = 2759133834224 = 0000028269312BF0) Failed, ctx = 000002826AADA120, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (101e8:123dc)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (101e8:11c58)]   (Sid: 61) Connection Terminated (by Client)

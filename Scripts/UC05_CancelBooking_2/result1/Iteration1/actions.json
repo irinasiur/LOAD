@@ -1,0 +1,141 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: webtours",
+                "infFile": "t1.inf",
+                "time": 1698581534892
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: header.html",
+                "infFile": "t2.inf",
+                "time": 1698581534951
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1698581535038
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: home.html",
+                "infFile": "t4.inf",
+                "time": 1698581535096
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: nav.pl",
+                "infFile": "t6.inf",
+                "time": 1698581535199
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: login.pl",
+                "infFile": "t7.inf",
+                "time": 1698581535353
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: login.pl_2",
+                "infFile": "t8.inf",
+                "time": 1698581535460
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: nav.pl_2",
+                "infFile": "t9.inf",
+                "time": 1698581535560
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: welcome.pl_2",
+                "infFile": "t10.inf",
+                "time": 1698581535666
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: itinerary.pl",
+                "infFile": "t11.inf",
+                "time": 1698581535766
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: nav.pl_3",
+                "infFile": "t12.inf",
+                "time": 1698581535871
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: itinerary.pl_2",
+                "infFile": "t13.inf",
+                "time": 1698581536117
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: welcome.pl_3",
+                "infFile": "t14.inf",
+                "time": 1698581536251
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: home.html_2",
+                "infFile": "t15.inf",
+                "time": 1698581536283
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: nav.pl_4",
+                "infFile": "t16.inf",
+                "time": 1698581536362
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "welcome",
+                "rawStartTime": 1698581534764,
+                "rawEndTime": 1698581535216,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14157986640930177
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1698581535247,
+                "rawEndTime": 1698581535576,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019825220108032228
+            },
+            {
+                "transactionName": "itinerary",
+                "rawStartTime": 1698581535593,
+                "rawEndTime": 1698581535887,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020070552825927736
+            },
+            {
+                "transactionName": "cancel_booking",
+                "rawStartTime": 1698581535982,
+                "rawEndTime": 1698581536124,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0059354305267333988
+            },
+            {
+                "transactionName": "signoff",
+                "rawStartTime": 1698581536155,
+                "rawEndTime": 1698581536373,
+                "thinkTime": 0.0,
+                "wastedTime": 0.018582820892333986
+            },
+            {
+                "transactionName": "UC05_Cancel_Booking",
+                "rawStartTime": 1698581534748,
+                "rawEndTime": 1698581536389,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2059938907623291
+            }
+        ]
+    }
+]

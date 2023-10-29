@@ -1,0 +1,13 @@
+[t57]
+FileName1=t57.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=2
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t57_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_57.xml
+FileName2=t57_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb
